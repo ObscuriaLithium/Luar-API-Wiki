@@ -1,4 +1,7 @@
 # Luar API
+
+### [Events][events] • [Libs][libs] • [Values][values]
+
 The Luar API allows you to modify the behavior of Minecraft through simple Lua scripts. With this mod, you can customize the technical part of your modpack, as well as add completely new logic to the server or effects to the client.
 
 ## Getting Started
@@ -38,3 +41,10 @@ https://github.com/ObscuriaLithium/Luar-API-Wiki/wiki/lib-Builder
 https://github.com/ObscuriaLithium/Luar-API-Wiki
 [discord]:
 https://discord.gg/jSHHJSUWdY
+
+[events]:
+https://github.com/ObscuriaLithium/Luar-API-Wiki/wiki/Events
+[libs]:
+https://github.com/ObscuriaLithium/Luar-API-Wiki/wiki/Libs
+[values]:
+https://github.com/ObscuriaLithium/Luar-API-Wiki/wiki/Values
